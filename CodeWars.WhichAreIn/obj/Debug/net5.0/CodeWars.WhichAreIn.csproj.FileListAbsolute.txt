@@ -1,0 +1,16 @@
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/bin/Debug/net5.0/CodeWars.WhichAreIn
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/bin/Debug/net5.0/CodeWars.WhichAreIn.deps.json
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/bin/Debug/net5.0/CodeWars.WhichAreIn.runtimeconfig.json
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/bin/Debug/net5.0/CodeWars.WhichAreIn.runtimeconfig.dev.json
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/bin/Debug/net5.0/CodeWars.WhichAreIn.dll
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/bin/Debug/net5.0/CodeWars.WhichAreIn.pdb
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.csproj.AssemblyReference.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.AssemblyInfoInputs.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.AssemblyInfo.cs
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.csproj.CoreCompileInputs.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.dll
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/refint/CodeWars.WhichAreIn.dll
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.pdb
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.genruntimeconfig.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/ref/CodeWars.WhichAreIn.dll

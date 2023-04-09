@@ -1,0 +1,16 @@
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/bin/Debug/net5.0/CodeWars.ArraysContainsCommonItem
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/bin/Debug/net5.0/CodeWars.ArraysContainsCommonItem.deps.json
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/bin/Debug/net5.0/CodeWars.ArraysContainsCommonItem.runtimeconfig.json
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/bin/Debug/net5.0/CodeWars.ArraysContainsCommonItem.runtimeconfig.dev.json
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/bin/Debug/net5.0/CodeWars.ArraysContainsCommonItem.dll
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/bin/Debug/net5.0/CodeWars.ArraysContainsCommonItem.pdb
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.csproj.AssemblyReference.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.AssemblyInfoInputs.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.AssemblyInfo.cs
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.csproj.CoreCompileInputs.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.dll
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/refint/CodeWars.ArraysContainsCommonItem.dll
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.pdb
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/CodeWars.ArraysContainsCommonItem.genruntimeconfig.cache
+/Users/sametuca/Projects/CodeWars/CodeWars.ArraysContainsCommonItem/obj/Debug/net5.0/ref/CodeWars.ArraysContainsCommonItem.dll
