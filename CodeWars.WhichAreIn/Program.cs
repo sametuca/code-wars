@@ -30,10 +30,6 @@ Beware: In some languages r must be without duplicates.*/
     {
         static void Main(string[] args)
         {
-
-            
-
-
             string[] a1 = new string[] { "tarp", "mice", "bull" };
             string[] a2 = new string[] { "lively", "alive", "harp", "sharp", "armstrong" };
             var result = inArray(a1, a2).ToList();
@@ -41,7 +37,6 @@ Beware: In some languages r must be without duplicates.*/
             {
                 Console.WriteLine(item);
             }
-            CheckHowEmpty(new char[] { 'a', 'b', });
             Console.ReadKey();
         }
 
@@ -50,21 +45,6 @@ Beware: In some languages r must be without duplicates.*/
             return (from a in array1 from b in array2 where b.Contains(a) select a).Distinct().OrderBy(e => e).ToArray();
         }
 
-        static char CheckHowEmpty(char[] array)
-        {
-
-            char[] alphabetic = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
-            var firstValue = array[0];
-            var findinAlpha = alphabetic.Where(x => x == firstValue);
-            alphabetic.GetValue(firstValue);
-            for (int i = 0; i < alphabetic.Length; i++) 
-            {
-                if (alphabetic[i].ToString().ToLower() == array[i].ToString().ToLower())
-                    return alphabetic[i];
-            }
-           
-            return 'a';
-        }
     }
 }
 
