@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0jTAf/d87tu34NdSZgwAi5jbyi8GOYuG1cPZDopqt31cA2nZy213vPKXDY7zkgEqziBw4g+7S1/FrjnQ0qthOQ==",
+  "dgSpecHash": "gD7ekJ+5Bupe1lrNaw2oJG/462OqdVf+voy0I+VYPDA0RmqhrWUXQdXHRKFXN6KxCyNKGSJX/WjRTIb9xaDPWQ==",
   "success": true,
-  "projectFilePath": "/Users/sametuca/Projects/CodeWars/CodeWars.ValidBraces/CodeWars.ValidBraces.csproj",
-  "expectedPackageFiles": [
-    "/Users/sametuca/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
-    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

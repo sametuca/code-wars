@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBJEOkcJ9HYWuNpD5emln6R+rQg6BcmNidnsdhH2e+tDcEABe6NN3avmGeo4dIKJA5nUcms5DCMC38fV0baEEA==",
+  "dgSpecHash": "eshj1qq2SkbYs/W1dZt6OFGDvjmG+7O/aILnbTZfaXUdSoUygXyyA8oVDbmXMXRCTTThPMlEO+87uTUZTYbgvw==",
   "success": true,
-  "projectFilePath": "/Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/CodeWars.WhichAreIn.csproj",
-  "expectedPackageFiles": [
-    "/Users/sametuca/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
-    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
