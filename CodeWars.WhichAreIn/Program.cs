@@ -44,6 +44,7 @@ Beware: In some languages r must be without duplicates.*/
         {
             return (from a in array1 from b in array2 where b.Contains(a) select a).Distinct().OrderBy(e => e).ToArray();
         }
+
     }
 }
 
