@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj": {}
+    "/Users/sametuca/Projects/CodeWars/CodeWars.FindTheOddInt/CodeWars.FindTheOddInt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj": {
+    "/Users/sametuca/Projects/CodeWars/CodeWars.FindTheOddInt/CodeWars.FindTheOddInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj",
+        "projectUniqueName": "/Users/sametuca/Projects/CodeWars/CodeWars.FindTheOddInt/CodeWars.FindTheOddInt.csproj",
         "projectName": "CodeWars.FindTheOddInt",
-        "projectPath": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj",
-        "packagesPath": "C:\\Users\\Samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.FindTheOddInt\\obj\\",
+        "projectPath": "/Users/sametuca/Projects/CodeWars/CodeWars.FindTheOddInt/CodeWars.FindTheOddInt.csproj",
+        "packagesPath": "/Users/sametuca/.nuget/packages/",
+        "outputPath": "/Users/sametuca/Projects/CodeWars/CodeWars.FindTheOddInt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sametuca/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

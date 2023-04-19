@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj": {}
+    "/Users/sametuca/Projects/CodeWars/CodeWars.DescendingInteger/CodeWars.DescendingInteger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj": {
+    "/Users/sametuca/Projects/CodeWars/CodeWars.DescendingInteger/CodeWars.DescendingInteger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+        "projectUniqueName": "/Users/sametuca/Projects/CodeWars/CodeWars.DescendingInteger/CodeWars.DescendingInteger.csproj",
         "projectName": "CodeWars.DescendingInteger",
-        "projectPath": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
-        "packagesPath": "C:\\Users\\Samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samet\\Documents\\GitHub\\CodeWars\\CodeWars.DescendingInteger\\obj\\",
+        "projectPath": "/Users/sametuca/Projects/CodeWars/CodeWars.DescendingInteger/CodeWars.DescendingInteger.csproj",
+        "packagesPath": "/Users/sametuca/.nuget/packages/",
+        "outputPath": "/Users/sametuca/Projects/CodeWars/CodeWars.DescendingInteger/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sametuca/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +49,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
