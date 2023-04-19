@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UOsFwcm3mSuFFrIi5OIPzBb++LiVC89Xaw/HCmCg7xL6ZAtCoBZB7S2WFBhdc2uRpmb4GaVVRq7VhzbulcoYPA==",
+  "dgSpecHash": "rdfcuiiUv+YeBpxn1fSWO1UEIrKmgXB0l6G96ziMjxAI9hyJde0TQbI0GmsVeoJ0sdmdtCdo6kAufUAZuB17bw==",
   "success": true,
   "projectFilePath": "/Users/sametuca/Projects/CodeWars/CodeWars.FindTheOddInt/CodeWars.FindTheOddInt.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sametuca/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
