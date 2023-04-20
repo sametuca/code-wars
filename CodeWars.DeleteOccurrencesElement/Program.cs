@@ -39,7 +39,6 @@ namespace CodeWars.DeleteOccurrencesElement
             }
 
             return result.ToArray();
-            return arr.GroupBy(e => e).SelectMany(e => e.Take(x)).ToArray();
         }
     }
 }
