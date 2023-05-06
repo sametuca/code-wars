@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+otC3D9/vqPq3QXUbkTX59lhD5O4aw3oz1J9GLb4jgSLMja8AVu5g8I+L+vEfHWpOkqv8xQQNba6lHf0z2v+g==",
+  "dgSpecHash": "eA26Rx0T77TmfPAl/DxZrwdLAQFVKMXAxdQRdl32wrglMsG0sgOgJKCbSXhFijvelYLlj8L2Dl0Qy16mWVBHGQ==",
   "success": true,
-  "projectFilePath": "/Users/sametuca/Projects/CodeWars/CodeWars.IQTest/CodeWars.IQTest.csproj",
-  "expectedPackageFiles": [
-    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/sametuca/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/sametuca/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
