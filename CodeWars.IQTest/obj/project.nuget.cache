@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eA26Rx0T77TmfPAl/DxZrwdLAQFVKMXAxdQRdl32wrglMsG0sgOgJKCbSXhFijvelYLlj8L2Dl0Qy16mWVBHGQ==",
+  "dgSpecHash": "TA1RCPtFPU/AermbpJY7HcbAeBKSpy9px9jGNN10M7dGx+96N931323EgGopQUMPJbS6L2AJDw69jfze8HzOqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

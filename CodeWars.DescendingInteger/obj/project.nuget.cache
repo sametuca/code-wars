@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+dzk/uVhJcw6ndldsBmkhYtsPr4ccCr1lF51W4l5c4QYRrEBmbF18Y9xJpQm1zw+C4QRVW4MWsEBSir5ZcJTw==",
+  "dgSpecHash": "2n+ChjPBMEKx37Qb7LE3PwtNsDsFzuG/qZHBHD0jLrZ32FmtkZ8xFPh0pxs29doiMDRMLkeWY8qClgD3K+sToA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

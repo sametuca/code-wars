@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxioiXFyZdqsAswLrVRuQ8PhJz0gBYBJYBdtZaysZ3bKX2b8kBIEWpCxa/12/9+XETxg3u58OlCt5+IBTwu2Nw==",
+  "dgSpecHash": "IiG0nPpdesyGQQfOj7DOpEjWEbylLVbGjhsej0hNlHtw5E0V08TAuC1Xy2Z6W6GFddTwYtvIZcfUpuX7ngGyLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

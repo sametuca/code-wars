@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkUlwg7LpaWrHY3sciFHeGAbZb0NtO2ktpBpRQ4sbXfx3M10ecAkyevvlSfUQeDedjkv1pldIMHOA5LwqH6mBg==",
+  "dgSpecHash": "3+cbe7a+N8mXougVE2xHRuIniN82g3yCzikjeA8YgTrJzeYLVLXTq4gUqGqr2U9OKMfp0txOYqFqkyuOcW3KgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

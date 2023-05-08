@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {}
+    "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {
+    "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
+        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
         "projectName": "CodeWars.IQTest",
-        "projectPath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
+        "projectPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
         "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.IQTest\\obj\\",
         "projectStyle": "PackageReference",
