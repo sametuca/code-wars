@@ -1,5 +1,5 @@
 
-# CodeWars
+# Code Wars Kata Training
 
 Some algorithms on the CodeWars platform are solved with the C# programming language.
 
