@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.ContainsDublicate"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.MovingZerosToTheEnd", "CodeWars.MovingZerosToTheEnd\CodeWars.MovingZerosToTheEnd.csproj", "{8279055C-2444-43C2-8D6A-D77F7AE5F002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.GoodVsEvil", "CodeWars.GoodVsEvil\CodeWars.GoodVsEvil.csproj", "{DC995DB4-5339-49F0-AC7A-86FFE6ADC3A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{8279055C-2444-43C2-8D6A-D77F7AE5F002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8279055C-2444-43C2-8D6A-D77F7AE5F002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8279055C-2444-43C2-8D6A-D77F7AE5F002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC995DB4-5339-49F0-AC7A-86FFE6ADC3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC995DB4-5339-49F0-AC7A-86FFE6ADC3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC995DB4-5339-49F0-AC7A-86FFE6ADC3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC995DB4-5339-49F0-AC7A-86FFE6ADC3A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
