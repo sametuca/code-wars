@@ -27,5 +27,23 @@
             arr = arr.Concat(ZeroArr).ToArray();
             return arr;
         }
+
+        //kısa çözüm
+        public static int[] MoveZeroes2(int[] arr)
+        {
+            return arr.OrderBy(x => x == 0).ToArray();
+        }
+
+        //kısa çözüm
+        public static int[] MoveZeroes3(int[] arr)
+        {
+            return arr.Where(x => x != 0).Concat(arr.Where(x => x == 0)).ToArray();
+        }
+
+        //kısa çözüm
+        public static int[] MoveZeroes4(int[] arr)
+        {
+            return arr.OrderBy(x => x == 0).ThenBy(x => x).ToArray();
+        }
     }
 }
