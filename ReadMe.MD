@@ -13,29 +13,28 @@ This project contains my solutions to various CodeWars algorithm questions. The 
 Questions and Solutions
 This project contains solutions to the following CodeWars questions:
 
-"Array Diff"
-"Arrays - Contains Common Item"
-"Contains Duplicate"
-"Delete Occurrences of an Element"
-"Descending Order"
-"DigPow"
-"Find the missing letter"
-"Find the Odd Int"
-"Get Goals Messi"
-"Good vs Evil"
-"IQ Test"
-"Just Count Sheep"
-"Kata Example Twist"
-"Moving Zeros To The End"
-"Ones and Zeros"
-"Power of Two"
-"Remove First and Last Character"
-"Shortest Code : Special Edition"
-"Sum of Two Lowest Integers"
-"Valid Braces"
-"Which are in?"
-Usage
-To run the project, follow these steps:
+#### Array Diff
+#### Arrays - Contains Common Item
+#### Contains Duplicate
+#### Delete Occurrences of an Element
+#### Descending Order
+#### DigPow
+#### Find the missing letter
+#### Find the Odd Int
+#### Get Goals Messi
+#### Good vs Evil
+#### IQ Test
+#### Just Count Sheep
+#### Kata Example Twist
+#### Moving Zeros To The End
+#### Ones and Zeros
+#### Power of Two
+#### Remove First and Last Character
+#### Shortest Code : Special Edition
+#### Sum of Two Lowest Integers
+#### Valid Braces
+#### Which are int
+## Usage To run the project, follow these steps:
 
 Clone the project to your local machine.
 Open the project in your preferred IDE.
