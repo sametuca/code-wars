@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+      "projectUniqueName": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
       "projectName": "CodeWars.DescendingInteger",
-      "projectPath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+      "projectPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
       "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.DescendingInteger\\obj\\",
+      "outputPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

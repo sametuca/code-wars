@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace CodeWars.FindTheOddInt
 {
@@ -8,6 +9,7 @@ namespace CodeWars.FindTheOddInt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            find_it2(new[] { 1, 2, 3, 4 });
         }
 
         public static int find_it(int[] seq)
@@ -27,6 +29,14 @@ namespace CodeWars.FindTheOddInt
             }
 
             return seqTwo[0];
+        }
+
+        public static int find_it2(int[] seq)
+        {
+            var dictionary = seq.ToArray()
+                .Select((i,index) => new {Number=i,Index=index})
+                .ToDictionary(x=> x.Index, x=>x.Number);
+            return -1;
         }
     }
 }

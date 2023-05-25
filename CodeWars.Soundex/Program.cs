@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace CodeWars.Soundex
 {
@@ -45,5 +46,8 @@ namespace CodeWars.Soundex
 
             return Regex.Matches(s, @"\d").Count() < 3 ? (s + "000").Substring(0, 4) : s.Substring(0, 4);
         }
+
+
+
     }
 }

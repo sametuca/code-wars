@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
+      "projectUniqueName": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
       "projectName": "CodeWars.WhichAreIn",
-      "projectPath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
+      "projectPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
       "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samet\\Source\\Repos\\code-wars\\CodeWars.WhichAreIn\\obj\\",
+      "outputPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
