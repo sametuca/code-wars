@@ -6,36 +6,45 @@ namespace CodeWars.FindTheOddInt
 {
     class Program
     {
+        /*
+        Given an array of integers, find the one that appears an odd number of times.
+
+        There will always be only one integer that appears an odd number of times.
+
+        Examples
+        [7] should return 7, because it occurs 1 time (which is odd).
+        [0] should return 0, because it occurs 1 time (which is odd).
+        [1,1,2] should return 2, because it occurs 1 time (which is odd).
+        [0,1,0,1,0] should return 0, because it occurs 3 times (which is odd).
+        [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
+         
+         */
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            find_it2(new[] { 1, 2, 3, 4 });
+            var result = FindDuplicate(new[] { 1, 2, 3, 4, 1, 2 });
+            Console.WriteLine(result);
         }
 
+        //alternative
         public static int find_it(int[] seq)
         {
-            // 1 2 3 1 4 5
-            // 0 1 2 3 4 5
-            int[] seqTwo = new int[seq.Length];
-            for (var i = 0; i < seq.Length; i++)
-            {
-                for (var j = 1; j < seq.Length; j++)
-                {
-                    if (seq[i] == seq[j])
-                    {
-                        seqTwo[i] = seq[i];
-                    }
-                }
-            }
-
-            return seqTwo[0];
+            return seq.Aggregate(0, (a, b) => a ^ b);
         }
 
-        public static int find_it2(int[] seq)
+        public static int FindDuplicate(int[] nums)
         {
-            var dictionary = seq.ToArray()
-                .Select((i,index) => new {Number=i,Index=index})
-                .ToDictionary(x=> x.Index, x=>x.Number);
+            HashSet<int> hash = new HashSet<int>();
+            foreach (int num in nums)
+            {
+                if (hash.Contains(num) && num % 2 == 1)
+                {
+                    return num;
+                }
+                else
+                {
+                    hash.Add(num);
+                }
+            }
             return -1;
         }
     }
