@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.Soundex", "CodeWar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.SecondBigNumber", "CodeWars.SecondBigNumber\CodeWars.SecondBigNumber.csproj", "{BFA6B44F-5740-4F24-B4EE-C746E0F18AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.ProductOfLargestPair", "CodeWars.ProductOfLargestPair\CodeWars.ProductOfLargestPair.csproj", "{D25344FD-9096-40D4-9FDF-DA3B2FAA6D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.ProductOfLargestPair", "CodeWars.ProductOfLargestPair\CodeWars.ProductOfLargestPair.csproj", "{D25344FD-9096-40D4-9FDF-DA3B2FAA6D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Pillars", "CodeWars.Pillars\CodeWars.Pillars.csproj", "{7AF34F30-2070-4563-AEB4-DA5E54402914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{D25344FD-9096-40D4-9FDF-DA3B2FAA6D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D25344FD-9096-40D4-9FDF-DA3B2FAA6D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D25344FD-9096-40D4-9FDF-DA3B2FAA6D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF34F30-2070-4563-AEB4-DA5E54402914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF34F30-2070-4563-AEB4-DA5E54402914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF34F30-2070-4563-AEB4-DA5E54402914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF34F30-2070-4563-AEB4-DA5E54402914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
