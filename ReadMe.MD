@@ -28,12 +28,17 @@ This project contains solutions to the following CodeWars questions:
 #### Kata Example Twist
 #### Moving Zeros To The End
 #### Ones and Zeros
+#### Pillars
 #### Power of Two
+#### Product Of Largest Pair
 #### Remove First and Last Character
-#### Shortest Code : Special Edition
+#### Second Big Number
+#### Short The Odd
+#### Short Array String Length
+#### Soundex
 #### Sum of Two Lowest Integers
 #### Valid Braces
-#### Which are int
+#### Which Are In
 ## Usage To run the project, follow these steps:
 
 Clone the project to your local machine.
