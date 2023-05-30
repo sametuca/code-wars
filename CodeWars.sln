@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.ProductOfLargestPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.Pillars", "CodeWars.Pillars\CodeWars.Pillars.csproj", "{7AF34F30-2070-4563-AEB4-DA5E54402914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.MultiplicationTable", "CodeWars.MultiplicationTable\CodeWars.MultiplicationTable.csproj", "{149A4316-6D58-4B91-9FF9-29CA7EB62D65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.MultiplicationTable", "CodeWars.MultiplicationTable\CodeWars.MultiplicationTable.csproj", "{149A4316-6D58-4B91-9FF9-29CA7EB62D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.AlphabetSymmetry", "CodeWars.AlphabetSymmetry\CodeWars.AlphabetSymmetry.csproj", "{8E82B82D-DC41-48DC-8A35-AFA50A1AE3EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{149A4316-6D58-4B91-9FF9-29CA7EB62D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{149A4316-6D58-4B91-9FF9-29CA7EB62D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{149A4316-6D58-4B91-9FF9-29CA7EB62D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E82B82D-DC41-48DC-8A35-AFA50A1AE3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E82B82D-DC41-48DC-8A35-AFA50A1AE3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E82B82D-DC41-48DC-8A35-AFA50A1AE3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E82B82D-DC41-48DC-8A35-AFA50A1AE3EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
