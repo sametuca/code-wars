@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {}
+    "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {
+    "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
+        "projectUniqueName": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
         "projectName": "CodeWars.IQTest",
-        "projectPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
-        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.IQTest\\obj\\",
+        "projectPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.IQTest\\CodeWars.IQTest.csproj",
+        "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.IQTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

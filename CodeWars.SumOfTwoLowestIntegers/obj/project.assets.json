@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\samet\\.nuget\\packages\\": {}
+    "C:\\Users\\Samet UCA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
+      "projectUniqueName": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
       "projectName": "CodeWars.SumOfTwoLowestIntegers",
-      "projectPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
-      "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\obj\\",
+      "projectPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
+      "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
