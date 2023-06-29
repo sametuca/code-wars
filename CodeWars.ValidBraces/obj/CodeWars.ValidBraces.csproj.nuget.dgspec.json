@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj": {}
+    "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj": {
+    "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
+        "projectUniqueName": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
         "projectName": "CodeWars.ValidBraces",
-        "projectPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
+        "projectPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
         "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\obj\\",
         "projectStyle": "PackageReference",

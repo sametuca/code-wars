@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1XmSkMvmAgZYRUhUwQ5QqpillADpR6yiLs37Rw8jO0anKpno6jQIHzO2X/TCpkvzf1hFGknX6pW24puv5mgRw==",
+  "dgSpecHash": "gmU6tfJvTAIM0xpxwFrGr1vAu/4MmYuqHYtzn/S5aZJMXpY7lV4ywBCMkjoCqPmuz7DcIgnoij8WU68LoAJR8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+  "projectFilePath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",

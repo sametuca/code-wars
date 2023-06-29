@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DuJhTebZ3vHv+6rW1oF19MaA0XR1a8Bag9Rdal458pkGg1ze9NsTDILEEWmWzExnSHp3hCpXZ1DqqL9Og5zh7w==",
+  "dgSpecHash": "yJGTJaq8aYRdPNnIFwk1ugXUEDjFlmrd4f+wY0F0Dap3prgkM1aoNZLPZbKY0cVPjm0+YEWsvO/4yxJg2P5kcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
+  "projectFilePath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
