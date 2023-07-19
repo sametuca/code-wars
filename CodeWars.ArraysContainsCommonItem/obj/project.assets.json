@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
+      "projectUniqueName": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
       "projectName": "CodeWars.ArraysContainsCommonItem",
-      "projectPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
+      "projectPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
       "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samet UCA\\Source\\Repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\obj\\",
+      "outputPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

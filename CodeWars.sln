@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.LatinSquares", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.ArrayDominates", "CodeWars.ArrayDominates\CodeWars.ArrayDominates.csproj", "{1C05BE66-2C1A-4A25-82BE-80A7FE2E4B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.LeapYears", "CodeWars.LeapYears\CodeWars.LeapYears.csproj", "{C1D8E2C7-C423-48AD-BB3F-5803F1472273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars.LeapYears", "CodeWars.LeapYears\CodeWars.LeapYears.csproj", "{C1D8E2C7-C423-48AD-BB3F-5803F1472273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.LazyRepeater", "CodeWars.LazyRepeater\CodeWars.LazyRepeater.csproj", "{3624F0A9-0F23-4E5F-8851-060E31ABA2A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{C1D8E2C7-C423-48AD-BB3F-5803F1472273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1D8E2C7-C423-48AD-BB3F-5803F1472273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1D8E2C7-C423-48AD-BB3F-5803F1472273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3624F0A9-0F23-4E5F-8851-060E31ABA2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3624F0A9-0F23-4E5F-8851-060E31ABA2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3624F0A9-0F23-4E5F-8851-060E31ABA2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3624F0A9-0F23-4E5F-8851-060E31ABA2A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
