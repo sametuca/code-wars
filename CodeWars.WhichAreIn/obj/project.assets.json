@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
+      "projectUniqueName": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
       "projectName": "CodeWars.WhichAreIn",
-      "projectPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
+      "projectPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
       "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\obj\\",
+      "outputPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.WhichAreIn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",

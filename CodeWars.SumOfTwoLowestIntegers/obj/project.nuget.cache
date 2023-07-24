@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "arYbHVCiKxOwEzLBhGIPkq5HBODH8dSNMibD/XSVgvZ6QiFndvgcpLVoPNt9A9PkfBCWmH+hOmxHrWBUza737A==",
+  "dgSpecHash": "ZSPMfZyPokrDUGeTkC1iIjswEnjRI3+T9FY+KPmiT0WFgcFn+iMs0dk1gmDJGjHjY4+rtWL5njmTYWjUIwp35g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
+  "projectFilePath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

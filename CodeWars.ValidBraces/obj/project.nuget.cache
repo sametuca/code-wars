@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6lBHwOVs51ezOwRPkc/5NsoIdp+f4Fu9uhkYHgFT9nD+JjM8slcvaZnus4bKFXPKihrAdaNRlNUSH+H2HGQYuA==",
+  "dgSpecHash": "PLugdk7KQI6x9MOIH2wTeGSE8kSZ4NGG9FuVx6/Rxt65617N3FBrJVKmpUsVTou/0mRz7crjsqPcw7cm58jq7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
+  "projectFilePath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.ValidBraces\\CodeWars.ValidBraces.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

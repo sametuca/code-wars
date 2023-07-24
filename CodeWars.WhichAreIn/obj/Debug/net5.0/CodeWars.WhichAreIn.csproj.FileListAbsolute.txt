@@ -14,3 +14,19 @@
 /Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.pdb
 /Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/CodeWars.WhichAreIn.genruntimeconfig.cache
 /Users/sametuca/Projects/CodeWars/CodeWars.WhichAreIn/obj/Debug/net5.0/ref/CodeWars.WhichAreIn.dll
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\bin\Debug\net5.0\CodeWars.WhichAreIn.exe
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\bin\Debug\net5.0\CodeWars.WhichAreIn.deps.json
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\bin\Debug\net5.0\CodeWars.WhichAreIn.runtimeconfig.json
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\bin\Debug\net5.0\CodeWars.WhichAreIn.runtimeconfig.dev.json
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\bin\Debug\net5.0\CodeWars.WhichAreIn.dll
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\bin\Debug\net5.0\CodeWars.WhichAreIn.pdb
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.AssemblyInfoInputs.cache
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.AssemblyInfo.cs
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.dll
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\refint\CodeWars.WhichAreIn.dll
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.pdb
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\CodeWars.WhichAreIn.genruntimeconfig.cache
+C:\Users\Samet UCA\fleet\code-wars\CodeWars.WhichAreIn\obj\Debug\net5.0\ref\CodeWars.WhichAreIn.dll

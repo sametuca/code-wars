@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
+      "projectUniqueName": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
       "projectName": "CodeWars.SumOfTwoLowestIntegers",
-      "projectPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
+      "projectPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\CodeWars.SumOfTwoLowestIntegers.csproj",
       "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\obj\\",
+      "outputPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.SumOfTwoLowestIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/sametuca/.dotnet/store/|arch|/|tfm|",
-      "/Users/sametuca/.nuget/packages"
+      "C:\\Users\\Samet UCA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Samet UCA\\.nuget\\packages"
     ]
   }
 }

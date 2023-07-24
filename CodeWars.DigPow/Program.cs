@@ -22,6 +22,19 @@ Note: n and p will always be given as strictly positive integers.
  */
 namespace CodeWars.DigPow
 {
+    public static class ArrayExtensions
+    {
+        //only converted int variables
+        public static int[] ConvertToIntArray(this int param)
+        {
+            int paramLenght = param.ToString().Length;
+            int[] resultArray = new int[paramLenght];
+            for(int i = 0; i < paramLenght; i++)
+                resultArray[i] = param.ToString()[i];
+            return resultArray;
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -35,9 +48,12 @@ namespace CodeWars.DigPow
             return sum % n == 0 ? sum / n : -1;
         }
 
+
+
         public static long digPow2(int n, int p)
         {
             char[] charArray = n.ToString().ToCharArray();
+            //int[] nToIntArray = n.ConvertToIntArray();
             int[] intArray = new int[charArray.Length];
             for (int i = 0; i <= intArray.Length-1; i++)
             {

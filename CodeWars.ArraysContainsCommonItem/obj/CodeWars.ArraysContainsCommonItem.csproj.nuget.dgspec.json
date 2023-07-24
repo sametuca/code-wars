@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj": {}
+    "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj": {
+    "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
+        "projectUniqueName": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
         "projectName": "CodeWars.ArraysContainsCommonItem",
-        "projectPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
+        "projectPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.ArraysContainsCommonItem\\CodeWars.ArraysContainsCommonItem.csproj",
         "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.ArraysContainsCommonItem\\obj\\",
+        "outputPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.ArraysContainsCommonItem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",

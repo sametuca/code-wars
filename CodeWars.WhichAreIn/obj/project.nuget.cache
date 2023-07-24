@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tPLZ/aGGPRKG3P0x7k27xl1IteBAB2Af0Km1hK6qyUhMsth75cgbSsMWBkI+ZIhhXkbg+3q2yLiF3S23FPcMRA==",
+  "dgSpecHash": "kqaqSiZ1ZOW+cWJeMFrUhj7AYIBoIC9UOJTzJOsWHvKmlIryHW4JgV6KcvJDwBzr1t1bxjbEo3rDa2oBeiqGCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
+  "projectFilePath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.WhichAreIn\\CodeWars.WhichAreIn.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Samet UCA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

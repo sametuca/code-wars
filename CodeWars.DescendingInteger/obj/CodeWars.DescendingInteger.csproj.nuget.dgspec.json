@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj": {}
+    "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj": {
+    "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+        "projectUniqueName": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
         "projectName": "CodeWars.DescendingInteger",
-        "projectPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
+        "projectPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.DescendingInteger\\CodeWars.DescendingInteger.csproj",
         "packagesPath": "C:\\Users\\Samet UCA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samet UCA\\source\\repos\\code-wars\\CodeWars.DescendingInteger\\obj\\",
+        "outputPath": "C:\\Users\\Samet UCA\\fleet\\code-wars\\CodeWars.DescendingInteger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samet UCA\\AppData\\Roaming\\NuGet\\NuGet.Config",
