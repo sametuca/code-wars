@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3wVbG9wAfbjLkY3s9S4Mm5Up0G1KgIHLlUn6IGb7Ghfr9T5ct5Dv8dBtl0cYw1z11d5omiVvtclRk3ynXuh/xA==",
+  "dgSpecHash": "Fj0MOmzE9fwuGjtvygrsJncmpm2IP1QMbbhVm95DYLsNHsTuQsv2OqcN8oRA2mQN0W0z8A7PgfaFvtWGrLitoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\samet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\samet\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\samet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\samet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
