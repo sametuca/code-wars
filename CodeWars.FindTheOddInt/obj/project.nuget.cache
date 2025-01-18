@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fj0MOmzE9fwuGjtvygrsJncmpm2IP1QMbbhVm95DYLsNHsTuQsv2OqcN8oRA2mQN0W0z8A7PgfaFvtWGrLitoQ==",
+  "dgSpecHash": "twEoykxRJ9U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\source\\repos\\code-wars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj",
+  "projectFilePath": "C:\\Users\\Samet\\source\\repos\\sametuca\\code-wars\\CodeWars.FindTheOddInt\\CodeWars.FindTheOddInt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
